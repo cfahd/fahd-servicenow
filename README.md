@@ -7,7 +7,7 @@
 * Internally developed ServiceNow reminder extension/plugin making use of the HTML mailto parameters in conjunction with JavaScript to automatically parse webpage contents to send customized ticket update reminders to end users. Built using JavaScript.
 
 ## Components
-* CMD Log
+* Screenshot Image 
 ![Screenshot](/Picture1.png)
 
 ## Authors
